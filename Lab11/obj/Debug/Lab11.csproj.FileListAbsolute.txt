@@ -1,0 +1,7 @@
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Lab11\Lab11\obj\Debug\Lab11.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Lab11\Lab11\obj\Debug\Lab11.pdb
